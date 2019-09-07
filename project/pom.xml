@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.mariojp</groupId>
-	<artifactId>maven-minimal-project</artifactId>
+	<artifactId>socket-echo-project</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>project</name>
+	<name>socket-echo-project</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
